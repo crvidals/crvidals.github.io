@@ -1,0 +1,16 @@
+{
+  "name": "Cristian Vidal | Desarrollador Fullstack Senior",
+  "short_name": "Cristian Vidal",
+  "description": "Portafolio profesional de Cristian Vidal, Desarrollador Fullstack Senior",
+  "start_url": "/crvidals.github.io/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
