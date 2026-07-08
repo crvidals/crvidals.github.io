@@ -69,5 +69,5 @@ export const profile: Profile = {
   email: "crvidals@gmail.com",
   github: "https://github.com/crvidals",
   githubPages: "https://crvidals.github.io",
-  cvUrl: "/cv/Cristian_Rodrigo_Vidal_Sanhueza_CV.pdf",
+  cvUrl: "/docs/Cristian_R_Vidal_S_CVitae-2026.pdf",
 };
