@@ -1,0 +1,66 @@
+export const skills = [
+    {
+        category: "Backend",
+        items: [
+            "PHP",
+            "Laravel",
+            "Symfony",
+            "CodeIgniter",
+            "Node.js",
+            "NestJS",
+            "Java",
+            "Spring Boot",
+            "Spring Batch",
+            "Python",
+            "FastAPI",
+            "Django",
+            "Flask",
+            "Go",
+            "Beego",
+            "Gin",
+        ],
+    },
+    {
+        category: "Frontend",
+        items: [
+            "React",
+            "Next.js",
+            "React Native",
+            "Vue",
+            "Angular",
+            "HTML",
+            "CSS",
+            "Tailwind CSS",
+            "WordPress",
+        ],
+    },
+    {
+        category: "Bases de datos",
+        items: ["MySQL", "PostgreSQL", "SQL Server", "MongoDB"],
+    },
+    {
+        category: "Cloud",
+        items: ["AWS", "GCP", "Docker"],
+    },
+    {
+        category: "Integración",
+        items: [
+            "REST",
+            "SOAP",
+            "ETL",
+            "Pentaho",
+            "Boomi",
+            "Apache Camel",
+            "PHP ETL",
+            "Flow PHP",
+        ],
+    },
+    {
+        category: "Lenguajes",
+        items: ["JavaScript", "TypeScript", "PHP", "Java", "Python", "Go"],
+    },
+    {
+        category: "Herramientas",
+        items: ["Git", "Microservicios"],
+    },
+];
