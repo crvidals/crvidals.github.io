@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useState } from "react";
 import { Menu } from "lucide-react";
 
+import { profile } from "../../data/profile";
 import Container from "../Container";
 import MobileMenu from "./MobileMenu";
 import NavigationItem from "./NavigationItem";
@@ -68,7 +69,7 @@ function Navbar() {
               }}
               className="text-lg font-semibold text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 focus-visible:ring-offset-background"
             >
-              CV
+              {profile.name}
             </a>
 
             <nav
